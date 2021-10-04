@@ -1,0 +1,4 @@
+title,category,phone,email,website,tags,address,location,latitude,longitude,maps_link,thumbnail_url,rating,about_business,is_approved,quote,book_table,meta_keywords,meta_description,order_link
+CSV Test 1,Pharmacies,23423545,sushant@croitresoftwares.com,,"tag1,tag2,tag3","Mall Road, Dubai",Dubai,12.34,34.12,"https://www.google.ae/maps/search/Nurseries+-+school/@40.168819,25.9128981,4z?hl=en",,3.5,,1,1,1,,,https://abc.com/order-menu
+CSV Test 2,Mobile Repair,54645343,sushant@croitresoftwares.com,abc.com,"tag3,tag4","Salem street, Abu Dhabi",Abu Dhabi,12.45,32.11,"https://www.google.ae/maps/search/Nurseries+-+school/@40.168819,25.9128981,4z?hl=en",,4,,0,1,1,,,
+CSV Test 3,Hotels,56676865,sushant@croitresoftwares.com,,"tag1,tag2,tag3","Stadium rd, Sharjah",Sharjah,12.15,31.22,"https://www.google.ae/maps/search/Nurseries+-+school/@40.168819,25.9128981,4z?hl=en",,3,,1,0,0,,,
